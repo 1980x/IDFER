@@ -5,6 +5,10 @@
 <strong> Our proposed FER framework:<strong>
 ![Proposed framework](images/IDNFER.png)
 
+  
+Authors: G N Vikas, Darshan Gera and Dr. S. Balasubramanian, SSSIHL.
+
+Any queries please mail to: gnvikas@gmail.com OR darshangera@sssihl.edu.in.  
 
 Acknowledgments:
 We dedicate this work to Bhagawan Sri Sathya Sai Baba, Divine Founder Chancellor of Sri Sathya Sai Institute of Higher Learning, PrasanthiNilyam, A.P., India.
